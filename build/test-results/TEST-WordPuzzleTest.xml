@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="WordPuzzleTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2015-08-14T18:15:50" hostname="epicodus-101.local" time="0.0">
+  <properties/>
+  <testcase name="wordPuzzle_wordWithoutSpaces_bnnn" classname="WordPuzzleTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
